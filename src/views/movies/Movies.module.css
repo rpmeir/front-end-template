@@ -1,0 +1,9 @@
+.movies {
+    padding: 20px;
+}
+
+.moviesList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
